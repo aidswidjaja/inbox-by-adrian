@@ -1,2 +1,2 @@
 # inbox-by-adrian
-The world needs a better email client.
+Your friendly neighbourhood email client.
